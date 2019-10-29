@@ -1,4 +1,5 @@
-//Github: github.com/noahjpark
+// 2D-Array Hourglass Sum Problem
+// Github: github.com/noahjpark
 
 import java.io.*;
 import java.math.*;
