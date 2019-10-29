@@ -1,2 +1,2 @@
 # HackerRank-Solutions
-These are various solutions to problems on HackerRank.com
+These are various solutions to different problems on HackerRank.com
