@@ -1,4 +1,5 @@
-//Github: github.com/noahjpark
+// Sock Merchant Problem
+// Github: github.com/noahjpark
 
 import java.io.*;
 import java.math.*;
